@@ -3,7 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# DAta
+# Checkpoints
+*.ckpt
+*.h5
+
+# Data
 *.csv
 *.zip
 *.DS_
